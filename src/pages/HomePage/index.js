@@ -61,9 +61,9 @@ function HomePage() {
 	const skeletons = new Array(BOOKS_PER_PAGE).fill('').map((_, index) => (
 		<div
 			key={index}
-			style={{ width: '300px', marginBottom: '20px', backgroundColor: '#DB4E3F' }}
+			style={{ width: '330px', marginBottom: '20px', backgroundColor: '#DB4E3F' }}
 		>
-			<Skeleton variant='rectangular' width='100%' height='200px' />
+			<Skeleton variant='rectangular' width='100%' height='420px' />
 		</div>
 	))
 
