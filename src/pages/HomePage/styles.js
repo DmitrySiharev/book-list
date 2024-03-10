@@ -21,7 +21,7 @@ export default () => ({
 	cardsContainer: {
 		display: 'flex',
 		flexWrap: 'wrap',
-		justifyContent: 'space-around'
+		justifyContent: 'space-between'
 	},
 
 	pagination: {
