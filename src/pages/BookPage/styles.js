@@ -49,6 +49,7 @@ export default (_, { isFavorite }) => ({
 			border: '1px solid #CC6600',
 			padding: '5px 10px',
 			cursor: 'pointer',
-			borderRadius: '5px'
+			borderRadius: '5px',
+			marginBottom: 20
 	}
 })

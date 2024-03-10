@@ -7,7 +7,7 @@ export default () => ({
 
 	linksContainer: {
 		display: 'flex',
-		justifyContent: 'space-between',
+		justifyContent: 'space-around',
 		width: '100%',
 		padding: '40px 0',
 	},
